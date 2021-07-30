@@ -1,0 +1,121 @@
+"Initiating VISUAL studio Version checking" 
+"-------------------------------" 
+"Version checked sucessfully" 
+"Initiating V-rep Checking" 
+"Vrep Check complete" 
+"Initiating VISUAL studio Version checking" 
+"-------------------------------" 
+"Version checked sucessfully" 
+"Initiating V-rep Checking" 
+"Vrep Check complete" 
+"Initiating VISUAL studio Version checking" 
+"-------------------------------" 
+Visual Studio Locator version 2.7.1+180c706d56 [query version 2.3.2200.14893]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+instanceId: 43798537
+installDate: 28-10-2019 13:03:29
+installationName: VisualStudio/16.3.6+29418.71
+installationPath: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community
+installationVersion: 16.3.29418.71
+productId: Microsoft.VisualStudio.Product.Community
+productPath: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+state: 4294967295
+isComplete: 1
+isLaunchable: 1
+isPrerelease: 0
+isRebootRequired: 0
+displayName: Visual Studio Community 2019
+description: Powerful IDE, free for students, open-source contributors, and individuals
+channelId: VisualStudio.16.Release
+channelUri: https://aka.ms/vs/16/release/channel
+enginePath: C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+releaseNotes: https://go.microsoft.com/fwlink/?LinkId=660893#16.3.6
+thirdPartyNotices: https://go.microsoft.com/fwlink/?LinkId=660909
+updateDate: 2019-10-28T07:33:29.5885026Z
+catalog_buildBranch: d16.3
+catalog_buildVersion: 16.3.29418.71
+catalog_id: VisualStudio/16.3.6+29418.71
+catalog_localBuild: build-lab
+catalog_manifestName: VisualStudio
+catalog_manifestType: installer
+catalog_productDisplayVersion: 16.3.6
+catalog_productLine: Dev16
+catalog_productLineVersion: 2019
+catalog_productMilestone: RTW
+catalog_productMilestoneIsPreRelease: False
+catalog_productName: Visual Studio
+catalog_productPatchVersion: 6
+catalog_productPreReleaseMilestoneSuffix: 1.0
+catalog_productSemanticVersion: 16.3.6+29418.71
+catalog_requiredEngineVersion: 2.3.2283.19382
+properties_campaignId: 520063851.1571478789
+properties_channelManifestId: VisualStudio.16.Release/16.3.6+29418.71
+properties_nickname: 
+properties_setupEngineFilePath: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installershell.exe
+"Version checked sucessfully" 
+"Initiating V-rep Checking" 
+Loading the V-REP library...
+Done!
+Launching V-REP...
+
+V-REP PRO EDU V3.6.2. (rev. 0)
+Using the default Lua library.
+Add-on script 'vrepAddOnScript-addOnScriptDemo.lua' was loaded.
+Add-on script 'vrepAddOnScript-b0RemoteApiServer.lua' was loaded.
+Add-on script 'vrepAddOnScript_PyRep.lua' was loaded.
+Simulator launched.
+Plugin 'MeshCalc': loading...
+Plugin 'MeshCalc': load succeeded.
+Plugin 'Assimp': loading...
+Plugin 'Assimp': warning: replaced variable 'simAssimp'
+Plugin 'Assimp': load succeeded.
+Plugin 'BlueZero': loading...
+Plugin 'BlueZero': warning: replaced variable 'simB0'
+Plugin 'BlueZero': load succeeded.
+Plugin 'BubbleRob': loading...
+Plugin 'BubbleRob': load succeeded.
+Plugin 'Bwf': loading...
+Plugin 'Bwf': load succeeded.
+Plugin 'CHAI3D': loading...
+Plugin 'CHAI3D': load succeeded.
+Plugin 'Cam': loading...
+Plugin 'Cam': load succeeded.
+Plugin 'CodeEditor': loading...
+CodeEditor: cannot load in headless mode
+Error with plugin 'CodeEditor': load failed (failed initialization).
+Plugin 'Collada': loading...
+V-REP runs in headless mode. Cannot start 'Collada' plugin.
+Error with plugin 'Collada': load failed (failed initialization).
+Plugin 'ConvexDecompose': loading...
+Plugin 'ConvexDecompose': load succeeded.
+Plugin 'CustomUI': loading...
+CustomUI: doesn't work in headless mode
+Error with plugin 'CustomUI': load failed (failed initialization).
+Plugin 'DynamicsBullet-2-78': loading...
+Plugin 'DynamicsBullet-2-78': load succeeded.
+Plugin 'DynamicsBullet-2-83': loading...
+Plugin 'DynamicsBullet-2-83': load succeeded.
+Plugin 'DynamicsNewton': loading...
+Plugin 'DynamicsNewton': load succeeded.
+Plugin 'DynamicsOde': loading...
+Plugin 'DynamicsOde': load succeeded.
+Plugin 'DynamicsVortex': loading...
+Plugin 'DynamicsVortex': load succeeded.
+Plugin 'ExternalRenderer': loading...
+Plugin 'ExternalRenderer': load succeeded.
+Plugin 'ICP': loading...
+Plugin 'ICP': warning: replaced variable 'simICP'
+Plugin 'ICP': load succeeded.
+Plugin 'Image': loading...
+Plugin 'Image': warning: replaced variable 'simIM'
+Plugin 'Image': load succeeded.
+Plugin 'Joystick': loading...
+Plugin 'Joystick': load succeeded.
+Plugin 'K3': loading...
+Plugin 'K3': load succeeded.
+Plugin 'LuaCommander': loading...
+LuaCommander: cannot find the statusbar widget
+Error with plugin 'LuaCommander': load failed (failed initialization).
+Plugin 'LuaRemoteApiClient': loading...
+External exit request: 8
